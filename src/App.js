@@ -3,7 +3,6 @@ import "./App.css";
 import Footer from "./Components/Footer";
 import Feature from "./Components/Features";
 
-
 function App() {
   return (
     <>
@@ -17,3 +16,4 @@ function App() {
   );
 }
 export default App;
+

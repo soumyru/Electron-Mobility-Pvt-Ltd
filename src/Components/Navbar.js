@@ -3,9 +3,13 @@ import React from "react";
 // import { NavLink } from "react-router-dom";
 
 export default function Navbar() {
-  return (
-    <div>
-      <nav className="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+
+
+ 
+    return (
+      <div>
+     
+      <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container-fluid">
           <a className="navbar-brand" href="/">
             Electica Energy
@@ -24,24 +28,23 @@ export default function Navbar() {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             <ul className="navbar-nav me-auto mb-2 mb-lg-0">
               <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="/">
-                  {" "}
-                </a>
+                <a className="nav-link active" aria-current="page" href="#">            </a>
               </li>
               <li className="nav-item">
-                <a className="nav-link active" aria-current="page" href="/">
-                  {" "}
-                </a>
+                <a className="nav-link active" aria-current="page" href="#">            </a>
               </li>
-
-              <li className="nav-item active">
-                <a
-                  className="nav-link active"
-                  aria-current="page"
-                  href="/About"
-                >
-                  About
-                </a>
+              
+              <li className="nav-item">
+                <a className="nav-link active" aria-current="page" href="#">About</a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link active" aria-current="page" href="#">Service and Product</a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link active" aria-current="page" href="#">Technology</a>
+              </li>
+              <li className="nav-item">
+                <a className="nav-link active" aria-current="page" href="#">Contact Us</a>
               </li>
               
               <li className="nav-item dropdown">
@@ -100,8 +103,10 @@ export default function Navbar() {
           </div>
         </div>
       </nav>
-    </div>
-  );
+      
+      
+      </div>
+    );
 }
 
 
