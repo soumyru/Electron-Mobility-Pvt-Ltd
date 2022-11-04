@@ -3,17 +3,16 @@ import "./Footer.css";
 
 function Footer() {
   return (
-    <div className="main-footer">
-      <div className="container">
+    <div className="main-footer  textAlign-center">
+      <div className="container textAlign-center">
         <div className="row">
           {/* Column1 */}
           <div className="col">
-            <h4>Electron Mobility Pvt Ltd</h4>
+            <h4>Electica Energy Pvt Ltd</h4>
             <ui className="list-unstyled">
               <li>342-420-6969</li>
               <li>South Campus IIT Mandi,</li>
               <li>Himahcal Pradesh, India</li>
-              
             </ui>
           </div>
           {/* Column2 */}
@@ -36,10 +35,10 @@ function Footer() {
           </div>
         </div>
         <hr />
-        <div className="row">
-          <p className="col-sm">
-            &copy;{new Date().getFullYear()} Electron Mobility Pvt Ltd | All rights reserved |
-            Terms Of Service | Privacy
+        <div className="row ">
+          <p className="col-sm ">
+            &copy;{new Date().getFullYear()} Electica Energy Pvt Ltd | All
+            rights reserved | Terms Of Service | Privacy
           </p>
         </div>
       </div>
