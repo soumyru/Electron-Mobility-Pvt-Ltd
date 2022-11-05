@@ -1,9 +1,14 @@
 import React from "react";
+import About from './About.js';
+import ServiceNProduct from './ServiceNProduct.js';
+import Technology from './Technology.js';
+import Contact from './Contact.js';
 // import {Scrollbars} from 'react-custom-scrollbars';
 // import { NavLink } from "react-router-dom";
 
 export default function Navbar() {
   return (
+    <>
       <div>
       <nav id="navbarId" className="navbar navbar-expand-lg navbar-dark bg-dark">
         <div className="container-fluid">
@@ -69,24 +74,40 @@ export default function Navbar() {
       </nav>
 
       <div data-bs-spy="scroll" data-bs-target="#navbarId" data-bs-root-margin="0px 0px -40%" data-bs-smooth-scroll="true" class="scrollspy-example bg-light p-3 rounded-2" tabindex="0">
-      <h4 id="scrollspyHeading1">About</h4>
-      <p>...</p>
-      <h4 id="scrollspyHeading2">Service and Product</h4>
-      <p>...</p>
-      <h4 id="scrollspyHeading2-1">Swapping</h4>
-      <p>...</p>
-      <h4 id="scrollspyHeading2-2">Partner Benefits</h4>
-      <p>...</p>
-      <h4 id="scrollspyHeading2-3">Technology</h4>
-      <p>...</p>
-      <h4 id="scrollspyHeading2-4">Mobile Technology</h4>
-      <p>...</p>
-      <h4 id="scrollspyHeading3">Technology</h4>
-      <p>...</p>
-      <h4 id="scrollspyHeading4">Contact Us</h4>
-      <p>...</p>
-
+      <div className="container" >
+        <h2 id="scrollspyHeading1">About Us</h2>
+        <About/>
       </div>
+      <div className="container">
+        <h2 id="scrollspyHeading2">Service and Product</h2>
+        <ServiceNProduct/>
+      </div>
+      <div className="container">
+      <h3 id="scrollspyHeading2-1">Swapping</h3>
+        {/* <About/> */}
+      </div>
+      <div className="container">
+      <h3 id="scrollspyHeading2-2">Partner Benefits</h3>
+        {/* <About/> */}
+      </div>
+      <div className="container">
+      <h3 id="scrollspyHeading2-3">Mobile Technology</h3>
+        {/* <About/> */}
+      </div>
+      <div className="container">
+      <h2 id="scrollspyHeading3">Technology</h2>
+        <Technology/>
+      <div className="container">
+      <h2 id="scrollspyHeading4">Contact Us</h2>
+        <Contact/>
+      </div>
+
     </div>
+    </div>
+    </div>
+    </>
     );
 }
+
+
+
