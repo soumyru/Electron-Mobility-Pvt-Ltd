@@ -1,11 +1,11 @@
 import React from "react";
+import "./Features.css";
 
-const Feature = () => {
+export default function Features() {
   return (
-    <div className="App">
-      <h1>Carousel/ Slides to be added</h1>
+    <div className="container-fluid feature ">
       
     </div>
   );
-};
-export default Feature;
+}
+// export default Features;

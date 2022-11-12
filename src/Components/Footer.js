@@ -7,7 +7,7 @@ function Footer() {
       <div className="container textAlign-center">
         <div className="row">
           {/* Column1 */}
-          <div className="col">
+          <div className="col aboutnav">
             <h4>Electica Energy Pvt Ltd</h4>
             <ui className="list-unstyled">
               <li>342-420-6969</li>
@@ -16,7 +16,7 @@ function Footer() {
             </ui>
           </div>
           {/* Column2 */}
-          <div className="col">
+          <div className="col aboutnav">
             <h4>Product & Services</h4>
             <ui className="list-unstyled">
               <li>Chargers </li>
@@ -25,7 +25,7 @@ function Footer() {
             </ui>
           </div>
           {/* Column3 */}
-          <div className="col">
+          <div className="col aboutnav">
             <h4>About Us</h4>
             <ui className="list-unstyled">
               <li>Company</li>
@@ -35,7 +35,7 @@ function Footer() {
           </div>
         </div>
         <hr />
-        <div className="row ">
+        <div className="row aboutnav">
           <p className="col-sm ">
             &copy;{new Date().getFullYear()} Electica Energy Pvt Ltd | All
             rights reserved | Terms Of Service | Privacy

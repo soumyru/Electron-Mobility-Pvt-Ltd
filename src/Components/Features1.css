@@ -1,0 +1,9 @@
+ .feature1 {
+  position: absolute;
+  width: 594px;
+  height: 240px;
+  left: 98px;
+  top: 324px;
+
+  background: url(image.png);
+} 
