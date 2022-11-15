@@ -191,7 +191,7 @@ export default function Navbar() {
           className="navbar fixed-top navbar-expand-lg navbar-dark bg-dark"
         >
           <div className="container-fluid aboutnav">
-            <a className="navbar-brand" href="/">
+            {/* <a className="navbar-brand" href="/">
               Electica Energy
             </a>
             <button
@@ -202,19 +202,19 @@ export default function Navbar() {
               aria-controls="navbarSupportedContent"
               aria-expanded="false"
               aria-label="Toggle navigation"
-            >
-              <span className="navbar-toggler-icon"></span>
-            </button>
+            > */}
+             { /* <span className="navbar-toggler-icon"></span>
+            </button> */}
             <div
               className="collapse navbar-collapse"
               id="navbarSupportedContent"
             >
-              <ul className="navbar-nav me-auto mb-2 mb-lg-0">
+              <ul className="navbar-nav me-auto mb-2 mb-lg-0 ">
                 <li className="nav-item aboutnav">
                   <a
                     className="nav-link active"
                     aria-current="page"
-                    href="#scrollspyHeading1"
+                    href="/home"
                   >
                     Home
                   </a>

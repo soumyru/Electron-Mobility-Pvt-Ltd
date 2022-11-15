@@ -1,0 +1,19 @@
+.feature12 {
+  position: absolute;
+  width: 247px;
+  height: 37px;
+  left: 594px;
+  top: 1430px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 41px;
+  /* identical to box height, or 85% */
+
+  letter-spacing: 0.06em;
+
+  color: #000000;
+  background: url(FEATURES.png);
+}

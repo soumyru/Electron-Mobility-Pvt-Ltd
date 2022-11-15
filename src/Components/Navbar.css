@@ -1,6 +1,10 @@
 .aboutnav {
+  
   font-family: "DM Sans";
+  text-align: center;
   font-style: normal;
+  display: inline-block;
+  list-style: none;
   font-weight: 500;
   font-size: 16px;
   line-height: 21px;

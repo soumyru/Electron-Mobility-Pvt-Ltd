@@ -1,0 +1,17 @@
+.feature5 {
+  position: absolute;
+  width: 300px;
+  height: 45px;
+  left: 278px;
+  top: 155px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 60px;
+  line-height: 78px;
+  text-transform: uppercase;
+
+  color: #ffffff;
+  background: url(Electron.png);
+}

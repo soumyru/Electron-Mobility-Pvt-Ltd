@@ -1,0 +1,12 @@
+.feature20 {
+    position: absolute;
+    width: 351px;
+    height: 0px;
+    left: 197px;
+    top: 873px;
+    
+    /* green */
+    
+    border: 1px dashed #99BD4C;
+  background: url(Line.png);
+}

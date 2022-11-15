@@ -1,0 +1,15 @@
+.feature14 {
+  position: absolute;
+  width: 371px;
+  height: 371px;
+  left: 305px;
+  top: 1570px;
+
+  background: linear-gradient(
+    180deg,
+    #bcdd75 0%,
+    rgba(134, 184, 27, 0.932292) 100%
+  );
+  border-radius: 8px;
+  background: url(Rectangle4.png);
+}

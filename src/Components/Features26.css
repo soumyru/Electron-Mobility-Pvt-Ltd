@@ -1,0 +1,21 @@
+.feature26 {
+    position: absolute;
+    width: 86px;
+    height: 80px;
+    left: 890px;
+    top: 1630px;
+  
+    font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 41px;
+    /* or 146% */
+  
+    text-align: center;
+  
+    color: #ffffff;
+  
+    background: url(Vector--.png);
+  }
+  

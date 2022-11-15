@@ -1,0 +1,19 @@
+.feature9 {
+  position: absolute;
+  width: 253px;
+  height: 37px;
+  left: 592px;
+  top: 812px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 48px;
+  line-height: 41px;
+  /* identical to box height, or 85% */
+
+  letter-spacing: 0.06em;
+
+  color: #000000;
+  background: url(ABOUT.png);
+}

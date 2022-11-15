@@ -1,0 +1,17 @@
+.feature11 {
+  position: absolute;
+  width: 600px;
+  height: 414px;
+  left: 680px;
+  top: 946px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 23px;
+  letter-spacing: 0.06em;
+
+  color: #353535;
+  background: url(para.png);
+}

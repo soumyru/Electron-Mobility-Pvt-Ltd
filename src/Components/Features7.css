@@ -1,0 +1,20 @@
+.feature7 {
+  position: absolute;
+  width: 363px;
+  height: 20px;
+  left: 187px;
+  top: 555px;
+
+  /* font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 41px; */
+  /* identical to box height, or 205% */
+
+  text-align: center;
+  letter-spacing: 0.06em;
+
+  color: #e3e3e3;
+  background-image: url(text1.png);
+}

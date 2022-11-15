@@ -1,0 +1,25 @@
+.feature32 {
+    position: absolute;
+left: 950px;
+width: 73px;
+height: 90px;
+/* right: 0%; */
+top: 2080px;
+/* bottom: 20.83%; */
+
+background: #FFFFFF;
+  
+    /* font-family: "DM Sans";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 41px; */
+    /* or 146% */
+  
+    /* text-align: center;
+  
+    color: #ffffff; */
+  
+    background: url(Vector__.png);
+  }
+  

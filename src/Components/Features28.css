@@ -1,0 +1,20 @@
+.feature28 {
+  position: absolute;
+  width: 276px;
+  height: 67px;
+  left: 800px;
+  top: 1820px;
+
+  font-family: "DM Sans";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 28px;
+  line-height: 41px;
+  /* or 146% */
+
+  text-align: center;
+
+  color: #ffffff;
+
+  background: url(text_.png);
+}

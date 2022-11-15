@@ -3,7 +3,7 @@ import "./Footer.css";
 
 function Footer() {
   return (
-    <div className="main-footer  textAlign-center">
+    <div className="main-footer   textAlign-center">
       <div className="container textAlign-center">
         <div className="row">
           {/* Column1 */}
