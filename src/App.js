@@ -1,5 +1,5 @@
 import "./App.css";
-import Navbar from "./Components/Navbar";
+// import Navbar from "./Components/Navbar";
 import Feature from "./Components/Features";
 import Features1 from "./Components/Features1";
 import Features0 from "./Components/Features0";
@@ -36,13 +36,20 @@ import Features31 from "./Components/Features31";
 import Features32 from "./Components/Features32";
 import Features33 from "./Components/Features33";
 import Features34 from "./Components/Features34";
+import Features35 from "./Components/Features35";
+import Features36 from "./Components/Features36";
+import Features37 from "./Components/Features37";
+import Features38 from "./Components/Features38";
+import Features39 from "./Components/Features39";
+import Features40 from "./Components/Features40";
+import Features41 from "./Components/Features41";
 import Footer from "./Components/Footer";
 // import About from "./Components/About";
 
 function App() {
   return (
     <>
-    <Navbar/>
+    {/* <Navbar/> */}
     <Features0/>
     <Feature/>
     <Features1/>
@@ -79,6 +86,13 @@ function App() {
     <Features32/> 
     <Features33/> 
     <Features34/> 
+    <Features35/> 
+    <Features36/> 
+    <Features37/> 
+    <Features38/> 
+    <Features39/> 
+    <Features40/> 
+    <Features41/> 
    
     </>
   );
