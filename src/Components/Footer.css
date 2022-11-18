@@ -2,8 +2,9 @@
     color: white;
     background-color: #282323;
     padding-top: 3em;
-    position: relative;
+    position: fixed;
     /* textAlign:"center"; */
     bottom: 0;
     width: 100%;
+    z-index: 9999;
   }

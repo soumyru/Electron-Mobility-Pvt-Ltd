@@ -1,0 +1,15 @@
+.feature45 {
+position: absolute;
+left: 382.58px;
+right: 1027.41px;
+top: 2592px;
+bottom: 1661.55px;
+width: 30px;
+height: 50px;
+
+/* ICON */
+
+background: #8A8A8A;
+/* transform: rotate(90deg); */
+background: url(VectorBattery.png);
+}
