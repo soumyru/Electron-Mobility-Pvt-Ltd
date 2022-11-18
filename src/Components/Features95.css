@@ -1,0 +1,23 @@
+.feature95{
+    
+position: absolute;
+width: 359px;
+height: 90px;
+left: 83px;
+top: 62px;
+
+font-family: 'DM Sans';
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 24px;
+/* or 150% */
+
+text-align: center;
+letter-spacing: 0.02em;
+
+/* w */
+
+color: #FFFFFF;
+background: url(Our\ resolution\ is\ not\ only\ cost\ efficient\ but\ also\ time\ saver\ and\ comes\ with\ the\ benefits\ of\ Lithium\ batteries..png);
+}

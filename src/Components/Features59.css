@@ -1,0 +1,22 @@
+.feature59 {
+    position: absolute;
+    width: 185px;
+    height: 20px;
+    left: 650px;
+    top: 3050px;
+    
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 31px;
+    text-align: center;
+    letter-spacing: 0.06em;
+    
+    /* text */
+    
+    color: #759B24;
+    background: #FFFFFF;
+    background: url(Our\ Resolution.png);
+  }
+  
