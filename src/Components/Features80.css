@@ -2,11 +2,11 @@
     position: absolute;
     left: 719.53px;
     top: 2976.97px;
-    width: 0.01%;
-    height: 10px;
+    width: 0px;
+    height: 5px;
     /* green */
     
     background: #99BD4C;
     transform: rotate(90deg);
     background: url(VectorResolutionHead.png);
-    }
+}

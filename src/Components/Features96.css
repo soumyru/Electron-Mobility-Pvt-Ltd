@@ -1,0 +1,14 @@
+.feature96{
+    position: absolute;
+left: 728px;
+/* right: 47.99%; */
+top: 2920px;
+/* bottom: 36.45%; */
+width: 0px;
+height: 10px;
+/* text */
+
+background: #759B24;
+transform: rotate(225deg);
+background: url(VectorArrowhead.png);
+}
