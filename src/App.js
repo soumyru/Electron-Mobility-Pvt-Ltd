@@ -189,6 +189,10 @@ import Features83 from "./Components/Features83";
 import Features84 from "./Components/Features84";
 import Features85 from "./Components/Features85";
 import Features86 from "./Components/Features86";
+// import Features87 from "./Components/Features87";
+// import Features90 from "./Components/Features90";
+// import Features93 from "./Components/Features93";
+import Features96 from "./Components/Features96";
 // import Footer from "./Components/Footer";
 // import About from "./Components/About";
 
@@ -262,7 +266,7 @@ function App() {
     <Features61/>
     <Features62/>
     <Features63/>
-    <Features64/>
+    <Features64/> 
     <Features65/>
     <Features66/>
     <Features67/>
@@ -275,19 +279,23 @@ function App() {
     <Features74/>
     <Features75/>
     <Features76/>
-    <Features77/>
-    <Features78/>
+    {/* <Features77/> */}
+    {/* <Features78/>
     <Features79/>
-    <Features80/>
+    <Features80/> */}
     <Features81/>
     <Features82/>
     <Features83/>
     <Features84/>
     <Features85/>
     <Features86/>
+    {/* <Features87/>
+    <Features90/>
+    <Features93/> */}
+    <Features96/>
     </>
   );
 }
 export default App;
 
-//prob in 45,49,58,65,71
+//problem in 64,77,78,79,80
